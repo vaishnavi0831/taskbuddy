@@ -36,5 +36,5 @@ CSS: For styling the application.
 
 ---
 
-### Clone the repository:###
+### Clone the repository: ###
 git clone https://github.com/vaishnavi0831/taskbuddy.git
